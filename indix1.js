@@ -1,0 +1,16 @@
+document.write(" I will be project of the code");
+document.write("<br>");
+var num1=parseInt(prompt("enter the number="));
+document.write("this is the number of the code="+num1);
+document.write("<br>");
+var num2=parseInt(prompt("enter the number="));
+document.write("this is the number of the code="+num2);
+document.write("<br>");
+var sum=num1+num2;
+document.write("sum of result="+num1+"+"+num2+"="+sum);
+document.write("<br>");
+var sub=num1-num2;
+document.write("sub of result="+num1+"-"+num2+"="+sub);
+document.write("<br>");
+var mul=num1*num2;
+document.write("mul of result="+num1+"*"+num2+"="+mul);

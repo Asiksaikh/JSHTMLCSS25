@@ -14,3 +14,16 @@ document.write("my name is asik  saikh this is the code of the file is over");
 document.write("<br>");
 var name1=" this is my cuntry name india";
 document.write("thic code nuumor of String="+name1.length);
+document.write("<br>");
+var num2=prompt("enter the number");
+num2=parseInt(num2);
+document.write("this is the number of the codee="+num2);
+document.write("<br>");
+var num3=prompt(" enter the num3");
+num3=parseInt(num3);
+
+document.write("this is the number of the code="+num3);
+
+document.write("<br>");
+var sum=num2+num3;
+document.write("this result of the sum="+sum);
